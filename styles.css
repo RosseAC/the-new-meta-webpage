@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.comment-section {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 100px;
+    content: center;
+}
+
+#comments {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#comment-form {
+    margin-top: 20px;
+    height: 30;
+    width: 20;
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    background-color:  #8cc84b;
+    color:  #000000;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+}
